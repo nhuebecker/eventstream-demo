@@ -1,0 +1,18 @@
+[
+	{
+		"timestamp": "2020-03-13T06:48:22.616Z",
+		"round": 0,
+		"gameState": "SUBMITPROMPT",
+		"participant": "4tqfppd65m9idgx8f49oq",
+		"prompt": "test prompt1",
+		"eventType": "submitPrompt"
+	},
+	{
+		"timestamp": "2020-03-13T06:48:22.616Z",
+		"round": 0,
+		"gameState": "SUBMITPROMPT",
+		"participant": "5mwlumo3407f6ne1xkgb1j",
+		"prompt": "test prompt2",
+		"eventType": "submitPrompt"
+	}
+]

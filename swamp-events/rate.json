@@ -1,0 +1,47 @@
+[
+	{
+		"timestamp": "2020-03-13T06:48:22.632Z",
+		"round": 0,
+		"gameState": "RATEPROMPT",
+		"participant": "vnyd4t4a1sitrsvqhrlsfs",
+		"prompt": "test prompt2",
+		"vote": 68,
+		"eventType": "ratePrompt"
+	},
+	{
+		"timestamp": "2020-03-13T06:48:22.632Z",
+		"round": 0,
+		"gameState": "RATEPROMPT",
+		"participant": "vnyd4t4a1sitrsvqhrlsfs",
+		"prompt": "test 1",
+		"vote": 24,
+		"eventType": "ratePrompt"
+	},
+	{
+		"timestamp": "2020-03-13T06:48:22.632Z",
+		"round": 0,
+		"gameState": "RATEPROMPT",
+		"participant": "0sou6hbvcf4q4wt8smuuob",
+		"prompt": "test prompt2",
+		"vote": 50,
+		"eventType": "ratePrompt"
+	},
+	{
+		"timestamp": "2020-03-13T06:48:22.632Z",
+		"round": 0,
+		"gameState": "RATEPROMPT",
+		"participant": "0sou6hbvcf4q4wt8smuuob",
+		"prompt": "test 1",
+		"vote": 94,
+		"eventType": "ratePrompt"
+	},
+	{
+		"timestamp": "2020-03-13T06:48:22.632Z",
+		"round": 0,
+		"gameState": "RATEPROMPT",
+		"participant": "fake participant",
+		"prompt": "test 1",
+		"vote": 94,
+		"eventType": "ratePrompt"
+	}
+]
